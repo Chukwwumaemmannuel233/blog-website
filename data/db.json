@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nThis is a space where I share my thoughts, experiences, and insights on technology, programming, and the ever-evolving digital world. Whether you’re a seasoned developer or just starting your coding journey, there’s something here for everyone.Stay tuned for tutorials, tips, and discussions on the latest trends in web development, coding best practices, and tools that make development easier and more efficient. Let's learn and grow together! Feel free to explore, comment, and share your thoughts. Happy reading! ",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "opening party!",
+      "body": "Why do we use it?\nThis is a space where I share my thoughts, experiences, and insights on technology, programming, and the ever-evolving digital world. Whether you’re a seasoned developer or just starting your coding journey, there’s something here for everyone. Stay tuned for tutorials, tips, and discussions on the latest trends in web development, coding best practices, and tools that make development easier and more efficient. Let's learn and grow together! Feel free to explore, comment, and share your thoughts. Happy reading! ",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "b7a5",
+      "title": "hello ninja",
+      "body": "This is a space where I share my thoughts, experiences, and insights on technology, programming, and the ever-evolving digital world. Whether you’re a seasoned developer or just starting your coding journey, there’s something here for everyone.\n\nStay tuned for tutorials, tips, and discussions on the latest trends in web development, coding best practices, and tools that make development easier and more efficient. Let's learn and grow together!\n\nFeel free to explore, comment, and share your thoughts. Happy reading!",
+      "author": "mario"
+    }
+  ]
+}
